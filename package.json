@@ -2,7 +2,7 @@
   "name": "shopping-tracking-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://troyanka.github.io/Victoria-Boymistr-7-03-2021",
+  "homepage": "https://troyanka.github.io/Victoria-Boymistr-07-03-2021",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
