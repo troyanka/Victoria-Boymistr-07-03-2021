@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Victoria-Boymistr-07-03-2021/static/css/main.1ca40661.chunk.css",
-    "main.js": "/Victoria-Boymistr-07-03-2021/static/js/main.d42c4610.chunk.js",
-    "main.js.map": "/Victoria-Boymistr-07-03-2021/static/js/main.d42c4610.chunk.js.map",
+    "main.js": "/Victoria-Boymistr-07-03-2021/static/js/main.573b1cde.chunk.js",
+    "main.js.map": "/Victoria-Boymistr-07-03-2021/static/js/main.573b1cde.chunk.js.map",
     "runtime-main.js": "/Victoria-Boymistr-07-03-2021/static/js/runtime-main.bcfe7d0e.js",
     "runtime-main.js.map": "/Victoria-Boymistr-07-03-2021/static/js/runtime-main.bcfe7d0e.js.map",
     "static/css/2.27175f2b.chunk.css": "/Victoria-Boymistr-07-03-2021/static/css/2.27175f2b.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.27175f2b.chunk.css",
     "static/js/2.7a5dbc49.chunk.js",
     "static/css/main.1ca40661.chunk.css",
-    "static/js/main.d42c4610.chunk.js"
+    "static/js/main.573b1cde.chunk.js"
   ]
 }
