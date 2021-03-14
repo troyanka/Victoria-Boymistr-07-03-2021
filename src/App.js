@@ -10,14 +10,14 @@ import { ErrorMessage } from './components/ErrorMessage/ErrorMessage';
 
 function App() {
 
-  const isError = useSelector(({ shoppingListReducer }) => shoppingListReducer.isError);
-  const isLoading = useSelector(({ shoppingListReducer }) => shoppingListReducer.isLoading);
+  const isCurrenciesError = useSelector(({ shoppingListReducer }) => shoppingListReducer.isCurrenciesError);
+  const isCurrenciesLoading = useSelector(({ shoppingListReducer }) => shoppingListReducer.isCurrenciesLoading);
 
   return (
     <div className="App">
       <Header />
-      {isError && <ErrorMessage messageText='Important note: converting currencies is not working now.' />}
-      {isLoading && <div>Loading...</div>}
+      {isCurrenciesError && <ErrorMessage messageText='Important note: converting currencies is not working now.' />}
+      {isCurrenciesLoading && <div>Loading...</div>}
       <Switch>
         <Route path="/" component={MainPageContainer} exact />
         <Route path='/list' component={BuyingPageContainer} />

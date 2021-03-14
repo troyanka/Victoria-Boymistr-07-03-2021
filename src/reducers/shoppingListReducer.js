@@ -4,8 +4,8 @@ import { PRODUCT_STATUSES } from '../constants/productStatuses';
 
 const initialState = {
 
-    isError: false,
-    isLoading: false,
+    isCurrenciesError: false,
+    isCurrenciesLoading: true,
     lastId: 0,
     currencyRates: null,
 
@@ -20,12 +20,6 @@ const initialState = {
 
 const shoppingListReducer = (state = initialState, action) => {
     switch (action.type) {
-        case GET_CURRENCY_DATA: {
-            return {
-                ...state,
-                isLoading: true
-            }
-        }
         case PRODUCT_ADD_CLICK: {
             const { newProd } = action;
             newProd.id = state.lastId++;
@@ -69,14 +63,14 @@ const shoppingListReducer = (state = initialState, action) => {
             return {
                 ...state,
                 currencyRates: currencyData,
-                isLoading: false
+                isCurrenciesLoading: false
             }
         }
         case FETCH_CURRENCY_RATES_FAILURE: {
             return {
                 ...state,
-                isError: true,
-                isLoading: false
+                isCurrenciesError: true,
+                isCurrenciesLoading: false
             }
         }
         default:
