@@ -15,8 +15,10 @@ const shoppingListMiddleware = store => next => action => {
                     store.dispatch(fetchCurrencyRatesFailure(message));
                 })
         }
-        default: next(action);
+        default: {}
     }
+
+    next(action);
 }
 export default shoppingListMiddleware;
 
