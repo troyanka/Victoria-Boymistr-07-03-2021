@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Victoria-Boymistr-7-03-2021/static/css/main.1ca40661.chunk.css",
-    "main.js": "/Victoria-Boymistr-7-03-2021/static/js/main.b969f053.chunk.js",
-    "main.js.map": "/Victoria-Boymistr-7-03-2021/static/js/main.b969f053.chunk.js.map",
-    "runtime-main.js": "/Victoria-Boymistr-7-03-2021/static/js/runtime-main.f9576626.js",
-    "runtime-main.js.map": "/Victoria-Boymistr-7-03-2021/static/js/runtime-main.f9576626.js.map",
-    "static/css/2.27175f2b.chunk.css": "/Victoria-Boymistr-7-03-2021/static/css/2.27175f2b.chunk.css",
-    "static/js/2.b52ca870.chunk.js": "/Victoria-Boymistr-7-03-2021/static/js/2.b52ca870.chunk.js",
-    "static/js/2.b52ca870.chunk.js.map": "/Victoria-Boymistr-7-03-2021/static/js/2.b52ca870.chunk.js.map",
-    "index.html": "/Victoria-Boymistr-7-03-2021/index.html",
-    "static/css/2.27175f2b.chunk.css.map": "/Victoria-Boymistr-7-03-2021/static/css/2.27175f2b.chunk.css.map",
-    "static/css/main.1ca40661.chunk.css.map": "/Victoria-Boymistr-7-03-2021/static/css/main.1ca40661.chunk.css.map",
-    "static/js/2.b52ca870.chunk.js.LICENSE.txt": "/Victoria-Boymistr-7-03-2021/static/js/2.b52ca870.chunk.js.LICENSE.txt",
-    "static/media/Add_Icon_image.9edb1d4a.png": "/Victoria-Boymistr-7-03-2021/static/media/Add_Icon_image.9edb1d4a.png",
-    "static/media/Search_Icon_image.cea9e32f.jpg": "/Victoria-Boymistr-7-03-2021/static/media/Search_Icon_image.cea9e32f.jpg",
-    "static/media/left_arrow.9488ae6b.jpg": "/Victoria-Boymistr-7-03-2021/static/media/left_arrow.9488ae6b.jpg",
-    "static/media/logo.2f5d64e6.jpg": "/Victoria-Boymistr-7-03-2021/static/media/logo.2f5d64e6.jpg"
+    "main.css": "/Victoria-Boymistr-07-03-2021/static/css/main.1ca40661.chunk.css",
+    "main.js": "/Victoria-Boymistr-07-03-2021/static/js/main.d42c4610.chunk.js",
+    "main.js.map": "/Victoria-Boymistr-07-03-2021/static/js/main.d42c4610.chunk.js.map",
+    "runtime-main.js": "/Victoria-Boymistr-07-03-2021/static/js/runtime-main.bcfe7d0e.js",
+    "runtime-main.js.map": "/Victoria-Boymistr-07-03-2021/static/js/runtime-main.bcfe7d0e.js.map",
+    "static/css/2.27175f2b.chunk.css": "/Victoria-Boymistr-07-03-2021/static/css/2.27175f2b.chunk.css",
+    "static/js/2.7a5dbc49.chunk.js": "/Victoria-Boymistr-07-03-2021/static/js/2.7a5dbc49.chunk.js",
+    "static/js/2.7a5dbc49.chunk.js.map": "/Victoria-Boymistr-07-03-2021/static/js/2.7a5dbc49.chunk.js.map",
+    "index.html": "/Victoria-Boymistr-07-03-2021/index.html",
+    "static/css/2.27175f2b.chunk.css.map": "/Victoria-Boymistr-07-03-2021/static/css/2.27175f2b.chunk.css.map",
+    "static/css/main.1ca40661.chunk.css.map": "/Victoria-Boymistr-07-03-2021/static/css/main.1ca40661.chunk.css.map",
+    "static/js/2.7a5dbc49.chunk.js.LICENSE.txt": "/Victoria-Boymistr-07-03-2021/static/js/2.7a5dbc49.chunk.js.LICENSE.txt",
+    "static/media/Add_Icon_image.9edb1d4a.png": "/Victoria-Boymistr-07-03-2021/static/media/Add_Icon_image.9edb1d4a.png",
+    "static/media/Search_Icon_image.cea9e32f.jpg": "/Victoria-Boymistr-07-03-2021/static/media/Search_Icon_image.cea9e32f.jpg",
+    "static/media/left_arrow.9488ae6b.jpg": "/Victoria-Boymistr-07-03-2021/static/media/left_arrow.9488ae6b.jpg",
+    "static/media/logo.2f5d64e6.jpg": "/Victoria-Boymistr-07-03-2021/static/media/logo.2f5d64e6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9576626.js",
+    "static/js/runtime-main.bcfe7d0e.js",
     "static/css/2.27175f2b.chunk.css",
-    "static/js/2.b52ca870.chunk.js",
+    "static/js/2.7a5dbc49.chunk.js",
     "static/css/main.1ca40661.chunk.css",
-    "static/js/main.b969f053.chunk.js"
+    "static/js/main.d42c4610.chunk.js"
   ]
 }
